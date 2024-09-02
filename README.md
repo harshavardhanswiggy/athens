@@ -10,7 +10,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Open Source Helpers](https://www.codetriage.com/gomods/athens/badges/users.svg)](https://www.codetriage.com/gomods/athens)
 
-Welcome to the Athens project! Athens is an open source, enterprise ready implementation of the [Go Module proxy](https://go.dev/ref/mod#module-proxy) for the [Go Modules download API](https://docs.gomods.io/intro/protocol/).
+Welcome to the Athens project! Athens is an open source, enter
+
+prise ready implementation of the [Go Module proxy](https://go.dev/ref/mod#module-proxy) for the [Go Modules download API](https://docs.gomods.io/intro/protocol/).
 
 See our documentation site [https://docs.gomods.io](https://docs.gomods.io) for more details on the project.
 
